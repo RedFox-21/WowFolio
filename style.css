@@ -6,7 +6,7 @@
 }
 
 :root {
-  --themeColor: 29, 161, 242;
+  --themeColor: 187, 0, 14;
   /* Theme Color in (R,G,B) format */
 }
 
@@ -220,7 +220,7 @@ a {
   width: 100%;
   box-shadow: 0 10px 100px -5px #eee;
   z-index: 1000;
-  background: #fff;
+  background: rgb(187, 0, 14);
 }
 
 .main-header__logo-container {
